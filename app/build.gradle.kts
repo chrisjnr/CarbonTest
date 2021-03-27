@@ -169,7 +169,11 @@ dependencies {
 
     implementation ("com.github.chnouman:AwesomeDialog:1.0.5")
 
+    implementation(project(":domain"))
 
+    implementation (project(":data"))
+
+    testImplementation (project(":data"))
 
 
 
