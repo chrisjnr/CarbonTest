@@ -1,4 +1,4 @@
-package com.loveworldapps.carbontest
+package com.loveworldapps.domain
 
 import org.junit.Test
 
